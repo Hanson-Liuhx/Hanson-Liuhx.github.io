@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      RL-Chapter-7:-n-step Bootstrapping
+title:      RL Chapter 7: n-step Bootstrapping
 subtitle:   Reading notes
 date:       2020-08-12
 author:     Haoxin
@@ -9,6 +9,6 @@ catalog: true
 tags:
     - Reinforcement Learning
     - Bootstrapping
----
+---  
 
-## 
+## test  
