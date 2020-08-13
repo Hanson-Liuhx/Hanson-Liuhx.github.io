@@ -2,7 +2,7 @@
 layout:     post
 title:      Algorithmic Game Theory
 subtitle:   Chapter 1 Basic Solution Concepts and Computational Issues
-date:       2020-08-013
+date:       2020-08-13
 author:     Haoxin
 header-img: img/post-bg-coffee.jpeg
 catalog: true
