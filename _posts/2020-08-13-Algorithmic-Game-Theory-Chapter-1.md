@@ -1,14 +1,17 @@
 ---
 layout:     post
-title:      Algorithmic Game Theory 
-subtitle:   Chapter 1: Basic Solution Concepts and Computational Issues
-date:       2020-08-13
+title:      Algorithmic Game Theory
+subtitle:   Chapter 1 Basic Solution Concepts and Computational Issues
+date:       2020-08-013
 author:     Haoxin
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - Algorithmic game theory
 ---
+
+
+
 
 ## 1.1 Games, Old and New  
 **The Prisoner's Dilemma:**  
