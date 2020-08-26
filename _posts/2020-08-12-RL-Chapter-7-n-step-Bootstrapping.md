@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      RL Chapter 7: n step Bootstrapping
+title:      Reinforcement Learning
 subtitle:   Reading notes
 date:       2020-08-12
 author:     Haoxin
@@ -12,4 +12,5 @@ tags:
 ---
 
 ## Test  
+
 asdf  
